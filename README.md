@@ -11,6 +11,6 @@ work to make your time at Flatiron School the best that it can be.
 
 Please feel free to respond openly. We value your honest feedback.
 
-[Student Survey][survey]
+## [Student Survey][survey]
 
 [survey]: https://flatironschoolforms.formstack.com/forms/student_survey?Discipline=Software%20Engineering
