@@ -1,8 +1,8 @@
-# Student Survey for Mod 5
+# Student Survey for Phase 5
 
 ## We Would Like Your Feedback
 
-Now that you’ve reached the end of this Module 5, we would like you to
+Now that you’ve reached the end of Phase 5, we would like you to
 [complete this survey][survey] reflecting on your experience thus far in the
 program.
 
